@@ -2,7 +2,7 @@
 
 ¿Quien soy?
 
-Soy Programador Full Stack. Graduado de Henry, en donde logre conocer, aprender y perfeccionarme como dasarrolador. Allí, tube la posibilidad de trabajar en tres grandes proyectos, en lo cuales puede aplicar mis conocimiento y trabajar en grupo con metodologia Agil (SCRUM).
+Soy Programador **Full Stack**. Graduado de Henry, en donde logre conocer, aprender y perfeccionarme como dasarrolador. Allí, tube la posibilidad de trabajar en tres grandes proyectos, en lo cuales puede aplicar mis conocimiento y trabajar en grupo con metodologia Agil (SCRUM).
 
 También soy pofesor de educación física. Tengo experiencia frente a diversos grupos etarios, por lo que me considero que tengo buena dinámica de grupo heteregenos. Una de mis fortalezas a la hora de ejercer dicha profesión es la perseverancia y paciencia a la hora de enseñar.
 
