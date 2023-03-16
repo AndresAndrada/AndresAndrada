@@ -1,4 +1,4 @@
-# Hola! Mi nombre es Andrada Andres. :grinning:
+# Hola! Mi nombre es Andrada Andres. :wave:	
 
 ¿Quien soy?
 
