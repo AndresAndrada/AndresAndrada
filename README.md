@@ -26,4 +26,4 @@ Descubrí que programando se puede lograr muchas cosas de mi interes, por lo que
 
 Espero que esta descripción te sea útil.
 
-En caso de que decidas contactarme, puedes hacerlo al siguiente correo andresandrada1994@gmail.com o por [LinkedIn].(https://www.linkedin.com/in/andr%C3%A9s-alfredo-andrada-1a83261b5/)
+En caso de que decidas contactarme, puedes hacerlo al siguiente correo andresandrada1994@gmail.com o por [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-alfredo-andrada-1a83261b5/)
