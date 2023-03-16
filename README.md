@@ -16,7 +16,7 @@ Mi objetivo principal es impactar en el mundo IT, más precisamente en lo referi
 
 Descubrí que programando se puede lograr muchas cosas de mi interes, por lo que disfruto programar a diario. Me encataría formar parte de un grupo de trabajo que me ayude a pontenciar y que me permita aportar de mis conocimientos a diversos proyactos.
 
-¿Que tecnologías uso?
+¿Que tecnologías uso? :muscle:	
 
 - JavaScript
 - React.js
