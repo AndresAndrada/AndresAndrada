@@ -18,11 +18,20 @@ Descubrí que programando se puede lograr muchas cosas de mi interes, por lo que
 
 ¿Que tecnologías uso? :muscle:	
 
+Front:
 - JavaScript
-- React.js
-- React-Redux
-- Node.js -Express.js -PostgreSQL -GIT
-- HTML y CSS con algunos de sus librerías.
+- Typescript
+- React
+- Next
+- Redux
+- Zustand
+
+Back:
+- Node
+- Express
+- PostgreSQL
+- Mongo
+- GIT
 
 Espero que esta descripción te sea útil.
 
